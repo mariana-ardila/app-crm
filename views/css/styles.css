@@ -1,4 +1,12 @@
- body {
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+
+body {
      font-family: sans-serif;
      background-color: #f5f5f5;
      display: flex;
@@ -164,3 +172,7 @@
     align-items: center;
  }
 
+ .correcto{
+background-color: transparent;
+
+ }
